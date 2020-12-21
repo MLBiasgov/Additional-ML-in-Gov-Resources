@@ -13,19 +13,31 @@ Gebru, T., Krause, J., Wang, Y., Chen, D., Deng, J., Aiden, E. L., & Fei-Fei, L.
 
 Free-text to automatically assign codes (aka autocoding)
 Within gov
+
+
 (BLS) Measure, Alex (2017). Deep neural networks for worker injury autocoding.
+
 (BLS) Measure, Alex (2014). Automatic coding of worker injury narratives.  Basis for 1.
+
 (Census) Dumbacher, Brian; Hanna, Demetria (2017). Passive Data Collection, System-to-system data collection, machine learning to improve economic surveys.
- 	Outside gov
+
+Outside gov
+
 Skinner, Michael (2018). Product categorization with LSTMs and balanced pooling views.
+
 Also check the other "data challenge papers" here: https://sigir-ecom.github.io/accepted-papers.html
+
 Ding, Liya et al. (2015). Auto-Categorization of HS Code Using Background Net Approach. 
 
-
 Amazon Mechanical Turk / Active Learning for better training data
+
 Within Gov
+
+
 Pierce, Cynthia et al. (2013). Crowd Sourcing data through Amazon Mechanical Turk. 
-	Outside Gov
+
+Outside Gov
+
 Settles, Burr (2010). Active Learning.
 
 MTurk for Survey Pretesting
